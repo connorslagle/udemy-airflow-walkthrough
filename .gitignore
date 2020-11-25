@@ -1,3 +1,6 @@
+# Add course folder, proprietary to Udemy course
+airflow-materials/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
